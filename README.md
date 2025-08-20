@@ -1,4 +1,15 @@
-Project - AirBnB Project
+Software developer
+Engineers and stabilizes the product
+
+Solves any technical problems emerging during the development lifecycle
+
+A software developer does the actual job and codes an application. And just like an app features a front end and a back end, there are front-end and back-end developers.
+
+Front-end developers create the part of an application that users interact with, ensuring that an app offers an equally smooth experience to all—no matter the device, platform, or operational system.
+
+Back-end developers, in turn, implement the core of an app—its algorithms and business logic. Experienced back-end developers not only write code but also do the tasks of an architect—for example, devise an app architecture or design and implement the necessary integrations.
+
+There are full-stack developers as well. They can handle all the work at once—from clients to servers to databases and all the needed integrations.Project - AirBnB Project
 
 The objective of this project is to design and develop an app for AirBnB
 
@@ -6,7 +17,7 @@ Project overview
 The Airbnb Clone Project is a comprehensive, real-world application designed to simulate the development of a robust booking platform like Airbnb. It involves a deep dive into full-stack development, focusing on backend systems, database design, API development, and application security. This project enables learners to understand complex architectures, workflows, and collaborative team dynamics while building a scalable web application.
 
 
-TEAM ROLES
+********TEAM ROLES**********
 
 Business analyst (BA)
 Understands customer’s business processes
