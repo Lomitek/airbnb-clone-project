@@ -69,9 +69,26 @@ Indexing: Implement indexes for fast retrieval of frequently accessed data.
 Caching: Use caching strategies to reduce database load and improve performance.
 
 
+##API Security
+
+Securing the backend APIs is critical to ensure the confidentiality, integrity, and availability of the system. Below are the key security measures implemented in this project:
+
+1. Authentication
+What it is: Ensures that only verified users or services can access the API.
+Why it matters: Protects user accounts, prevents unauthorized access, and safeguards sensitive data such as personal information or login credentials.
+2. Authorization
+What it is: Determines what actions authenticated users are allowed to perform.
+Why it matters: Ensures users can only access the resources they are permitted to (e.g., a customer cannot access another customer’s order history).
+3. Rate Limiting
+What it is: Restricts the number of requests a client can make in a given timeframe.
+Why it matters: Prevents abuse, denial-of-service attacks, and ensures fair use of system resources.
 
 
 
+### Why API Security is Crucial
+1. Protecting User Data:** Ensures confidentiality of personal and financial information.  
+2. Securing Payments:** Maintains trust by preventing fraud and data breaches.  
+3. System Reliability:** Shields the platform from attacks that could cause downtime.  
 
 
 
