@@ -85,15 +85,25 @@ Why it matters: Prevents abuse, denial-of-service attacks, and ensures fair use 
 
 
 
-### Why API Security is Crucial
+# Why API Security is Crucial
 1. Protecting User Data:** Ensures confidentiality of personal and financial information.  
 2. Securing Payments:** Maintains trust by preventing fraud and data breaches.  
 3. System Reliability:** Shields the platform from attacks that could cause downtime.  
 
 
 
+##CI/CD Pipeline
 
+CI/CD stands for Continuous Integration and Continuous Deployment/Delivery.
+It is a development practice that automates the process of integrating code changes, testing them, and deploying applications to production environments.
 
+Why CI/CD is Important
+-  Faster Development Cycles:  Automates repetitive tasks, speeding up delivery.  
+-  Improved Quality:  Automated testing ensures that new changes don’t break existing functionality.  
+
+Tools for CI/CD
+-  GitHub Actions:  Automates workflows such as testing, building, and deployment directly within GitHub.  
+-  Docker:  Provides consistent environments through containerization, making deployments more reliable.  
 
 
 
